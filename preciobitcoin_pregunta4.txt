@@ -1,0 +1,3 @@
+El costo actual de 1.0 bitcoins en USD es: $70,509.8600
+El costo actual de 20.0 bitcoins en USD es: $1,410,197.2000
+El costo actual de 100.0 bitcoins en USD es: $7,051,529.2000
